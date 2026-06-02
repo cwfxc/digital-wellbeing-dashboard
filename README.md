@@ -74,7 +74,7 @@
 ## Скриншоты
 
 ### Страница 1: Анализ влияния цифровых привычек
-![Overview](01_overview.png)
+![Overview](01_correlations_overview.png)
 
 ### Страница 2: Тревожность и цифровое поведение
-![Risk Group](02_risk_group.png)
+![Risk Group](02_risk_group_profile.png)
